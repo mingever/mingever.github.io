@@ -6,7 +6,7 @@
   <link href="https://mingever.github.io/atom.xml" rel="self"/>
   
   <link href="https://mingever.github.io/"/>
-  <updated>2021-06-01T12:24:18.424Z</updated>
+  <updated>2021-06-05T14:19:07.507Z</updated>
   <id>https://mingever.github.io/</id>
   
   <author>
@@ -17,22 +17,83 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://mingever.github.io/2021/06/01/hello-world/"/>
-    <id>https://mingever.github.io/2021/06/01/hello-world/</id>
-    <published>2021-06-01T12:24:18.424Z</published>
-    <updated>2021-06-01T12:24:18.424Z</updated>
+    <title>小王子的故事告诉了我们什么</title>
+    <link href="https://mingever.github.io/2021/06/05/%E5%B0%8F%E7%8E%8B%E5%AD%90%E7%9A%84%E6%95%85%E4%BA%8B%E5%91%8A%E8%AF%89%E4%BA%86%E6%88%91%E4%BB%AC%E4%BB%80%E4%B9%88/"/>
+    <id>https://mingever.github.io/2021/06/05/%E5%B0%8F%E7%8E%8B%E5%AD%90%E7%9A%84%E6%95%85%E4%BA%8B%E5%91%8A%E8%AF%89%E4%BA%86%E6%88%91%E4%BB%AC%E4%BB%80%E4%B9%88/</id>
+    <published>2021-06-05T14:17:04.000Z</published>
+    <updated>2021-06-05T14:19:07.507Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>初读《小王子》时觉得玫瑰虚荣骄纵，仰仗着小王子对她的倾慕便对他颐指气使。后来才懂得，原来小王子没能读懂玫瑰刁蛮任性背后隐藏的多少柔情，不知道她在孕育出花朵之前多么精心地打扮着自己却又装作毫不在意般矫揉造作的小心思；不知道她并不是天真地相信自己仅有的四根刺能够保护自己，而是相信只要小王子在身边便不会遇到危险；不知道她刁蛮地催促小王子为她架起屏风是想获得小王子更多的珍视与照顾。玫瑰经历尚浅，还不懂得如何好好去爱一个人；小王子尽心尽力地照料着玫瑰，以为将自己的一切奉上便是爱的真谛，却忘记了是玫瑰使他的生活芬芳多彩。小王子精疲力竭，带着沮丧的心情决定离开玫瑰。玫瑰终于懂得自己的虚张声势使小王子疲惫不堪。那些只是想让小王子更加珍视自己的无理取闹的花招，曾折磨着全心全意对待她的小王子。其实玫瑰知道自己并非独一无二，自己的刁蛮只是希望确认小王子的爱是特别的。她终于放下了骄傲言明了爱，也接受了小王子即将离开的事实。小王子没能与玫瑰相守，并不是因为他对玫瑰爱得不够深情，而是太过在乎彼此却又不知如何表达。故事的结局并不一定要圆满才有意义，人在成长的过程中总会丢失一些很重要的东西。暮然回首，才会发现原来那些曾经的痛都是成长必须经历的。正是这一份疼痛告诉小王子相爱中不应该只有盲目的迷恋与容忍，而是看到对方身上的所有好与坏，知道对方并非是特别的，但仍愿意彼此携手并进，因为知道对方是世间属于自己那朵独一无二的玫瑰。小狐狸告诉小王子人与人的关系，其实是心甘情愿的驯服与被驯服，从此以后两个人之间有了独一无二的联结，一个普通人便开始变得与世界上的所有人都不一样。但与此同时，不论是亲情、爱情还是友情，建立羁绊就不得不面临流眼泪的风险。小狐狸让小王子明白了纵使花园中盛开着成千上万的玫瑰，但B612星球上的那朵才是独一无二的。她单独一朵就胜过这世间所有的玫瑰，因为她是小王子浇灌的，是小王子放在花罩中的，是小王子用屏风保护起来的，因为小王子倾听过她的怨艾和自诩，甚至聆听过她的沉默。 他们互相驯养过彼此，她是小王子的玫瑰。小王子爱着这样一朵盛开在浩瀚星海里的花，因此当他抬头仰望繁星时，便会感到心满意足。小狐狸从一开始就明白小王子迟早会与自己告别，可它仍然希望与小王子建立羁绊。它一点一点教着曾经不太懂得爱的小王子他的玫瑰因彼此的驯养而独特，告诉他要对驯养过的玫瑰负责，也眼睁睁地看着小王子离自己愈来愈远，直到告别的那一刻。小狐狸可怜吗？才不是呢，因为实质性的东西，只有用心才能看清。正如星空的美丽在于宇宙间存在着一朵娇艳的玫瑰花，沙漠的美丽在于苍茫中存在的那一口甘甜的井，在今后的日子里，小狐狸会拥有整个秋天麦子的颜色，也会拥有风在麦穗间吹拂的声音。</p><p>摘自知乎：<br>作者：一只安卓<br>链接：<a href="https://www.zhihu.com/question/320632981/answer/1406864050">https://www.zhihu.com/question/320632981/answer/1406864050</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;初读《小王子》时觉得玫瑰虚荣骄纵，仰仗着小王子对她的倾慕便对他颐指气使。后来才懂得，原来小王子没能读懂玫瑰刁蛮任性背后隐藏的多少柔情，不知道她在孕育出花朵之前多么精心地打扮着自己却又装作毫不在意般矫揉造作的小心思；不知道她并不是天真地相信自己仅有的四根刺能够保护自己，而是相</summary>
       
     
     
     
+    <category term="随笔" scheme="https://mingever.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://mingever.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这个夏天乘风破浪</title>
+    <link href="https://mingever.github.io/2021/06/05/%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA/"/>
+    <id>https://mingever.github.io/2021/06/05/%E8%BF%99%E4%B8%AA%E5%A4%8F%E5%A4%A9%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA/</id>
+    <published>2021-06-05T13:25:44.000Z</published>
+    <updated>2021-06-05T13:48:32.954Z</updated>
+    
+    <content type="html"><![CDATA[<p>五百多年前</p><p>哥伦布的帆船 在大海中濒临崩溃</p><p>即将一无所获地返航</p><p>最绝望时 水手爬上桅杆</p><p>惊呼陆地出现了</p><p>这是改变历史的一次眺望</p><p>而所有的荣耀</p><p>来自于勇于开始</p><p>水手眺望星星 判断方向</p><p>我们从真实出发去建造</p><p>即使表达笨拙而贫乏</p><p>所有的“从零到一”</p><p>最难的不是听取答案</p><p>而是提出问题</p><p>不是谁能成就我</p><p>而是谁能阻止我</p><p>我们期望以平静和敏感的视角</p><p>观察世界 尊重选择</p><p>并保持永不知倦的好奇</p><p>这一生决定我们能走多远的</p><p>不是能力 而是选择</p><p>在一切看起来的“不可能”与“不可能”之间</p><p>是选择困在岸上</p><p>还是乘风破浪</p><p>在整个2020年的故事里</p><p>有复杂的万象</p><p>重建的世界</p><p>和遥远的心</p><p>每一个曾经登船的人</p><p>一定都有着灿烂如火的眺望</p><p>人们在这里握手 致意</p><p>为了远行</p><p>此后</p><p>不祝一帆风顺</p><p>但祝乘风破浪</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;五百多年前&lt;/p&gt;
+&lt;p&gt;哥伦布的帆船 在大海中濒临崩溃&lt;/p&gt;
+&lt;p&gt;即将一无所获地返航&lt;/p&gt;
+&lt;p&gt;最绝望时 水手爬上桅杆&lt;/p&gt;
+&lt;p&gt;惊呼陆地出现了&lt;/p&gt;
+&lt;p&gt;这是改变历史的一次眺望&lt;/p&gt;
+&lt;p&gt;而所有的荣耀&lt;/p&gt;
+&lt;p&gt;来自于勇于开始&lt;/p&gt;
+&lt;p&gt;水手</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="https://mingever.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://mingever.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="https://mingever.github.io/2021/06/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://mingever.github.io/2021/06/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-06-05T12:33:00.000Z</published>
+    <updated>2021-06-05T13:52:03.694Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客——可能这个东西在大多数眼中已经落后于时代甚至压根没听过。在这个信息碎片化、人人信息获取不对等的时代，各个社交平台可以很快速地发送动态、短视频，方便的跟自己的朋友们点赞、互动，而花大量时间金钱和精力去维护一个没人看的博客未免显得有点蠢？</p><p>对于个人来讲，拥有自己的域名、自己的博客、能庞大的互联网拥有自己的清静的一亩三分地，留下自己的所见所得、所想所思、能够和一同坚持维护自己的博客的人一起交流、交朋友（互换友链）……这都是很有很有意义的事！</p><p>写博客的人应该都会经历三个阶段：</p><p>第一阶段：接触WordPress等大型博客程序，尝试各种复杂的功能，乐于折腾各种花里胡哨的<br>第二阶段：使用Markdown进行创作，追求更加轻量简洁的程序，比如Typecho、Z-Blog、Emlog……<br>第三阶段：希望能够脱离服务器，降低博客维护成本，更加专心于写作而不必花费大量时间在服务器维护上，但同时又希望自己拥有博客的完整掌控权，又有了Hexo、Hugo、Gridea等静态博客程序<br>第三阶段很多人就是从动态博客程序转到静态博客程序，使用Github、Gitee、Coding、Gitlab…等Git代码托管仓库的Pages功能托管自己的静态博客</p><p>初识Hexo<br>静态博客程序有很多，还有很多大佬甚至自己写静态博客生成器，常见的有Hexo、Hugo、Jekyll等等，这里介绍的是Hexo的一些搭建记录。为什么使用Hexo和Github Pages？Hexo基于Node.js静态博客框架，拥有庞大的社区/开源支持，仅需要极少的依赖、拥有超级丰富的主题和插件，支持Markdown语法；而Github Pages免费、基于Git的版本控制不用担心文章丢失、博客生成的静态文件存储在Github仓库不用担心丢失</p><p>Hexo基于Node.js的静态博客框架，通过把Markdown格式的文章渲染成静态Html网页，通过Git进行文章的发布、更改，可以部署到任意的Git平台</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;博客——可能这个东西在大多数眼中已经落后于时代甚至压根没听过。在这个信息碎片化、人人信息获取不对等的时代，各个社交平台可以很快速地发送动态、短视频，方便的跟自己的朋友们点赞、互动，而花大量时间金钱和精力去维护一个没人看的博客未免显得有点蠢？&lt;/p&gt;
+&lt;p&gt;对于个人来讲，拥有</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="https://mingever.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://mingever.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
